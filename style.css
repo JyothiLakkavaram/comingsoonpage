@@ -61,7 +61,7 @@ header img {
     position: relative;
     display: block;
     height: 50px;
-    width: 400px;
+    width: 60%;
     margin: 0 auto;
 }
 .container .left form input {
@@ -177,6 +177,13 @@ display: block;
     }
     .container .form button {
         width: 80px;
+    }
+    .container .left form {
+        position: relative;
+        display: block;
+        height: 50px;
+        width: 400px;
+        margin: 0 auto;
     }
    
 }
